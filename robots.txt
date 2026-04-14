@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madison-reviews.github.io/Medicinal-Garden-Kit-Reviews-and-Complaints-2026/sitemap.xml
